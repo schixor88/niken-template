@@ -1,0 +1,30 @@
+object Version {
+    val KOTLIN_SBLIB_VERSION = "1.7.0"
+    val APP_COMPAT_VERSION = "1.4.2"
+    val MATERIAL_VERSION = "1.6.1"
+    val CONSTRAINT_LAYOUT_VERSION = "2.1.4"
+    val JUNIT_VERSION = "4.13.2"
+    val EXT_JUNIT_VERSION = "1.1.3"
+    val EXPRESSO_VERSION = "3.4.0"
+
+    //BUILD GRADLE - ROOT
+    val KOTLIN_VERSION = "1.6.10"
+    val ANDROID_APPLICATION_VERSION = "7.1.1"
+    val ANDROID_HILT_VERSION = "2.41"
+
+    val DAGGER_HILT_VERSION = "2.40.5"
+    val HILT_ANDROID_VERSION = "2.40.5" //kapt
+    val HILT_VIEWMODEL_VERSION = "1.0.0-alpha03"
+    val HILT_COMPILER_VERSION = "1.0.0" //kapt
+
+    val RETROFIT_VERSION =  "2.9.0"
+    val MOSHI_CONVERTER_VERSION = "2.9.0"
+    val OKHTTP3_VERSION = "5.0.0-alpha.3"
+    val OKHTTP_INTERCEPTOR_VERSION = "5.0.0-alpha.3"
+
+    val ROOM_VERSION = "2.4.2"
+    val ROOM_COMPILER_VERSION = "2.4.2" //kapt
+
+    val ROOM_COROUTINE_VERSION = "2.4.2"
+    val VIEWMODEL_VERSION = "2.6.0-alpha01"
+}
